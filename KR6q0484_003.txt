@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:53.768086
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:50
 #+TITLE: 南海寶象林慧弓詗禪師語錄
 #+PROPERTY: CBETA_ID J35nB336
 #+PROPERTY: ID KR6q0484
@@ -10,11 +10,11 @@
 #+PROPERTY: LASTPB <pb:KR6q0484_J_003-0679c> 
 #+PROPERTY: JUAN 3
 
-宗門拈古
+* 宗門拈古
  慧弓詗禪師宗門拈古目錄卷三¶
 書記法照編¶
 
-目錄
+** 目錄
   
   * 青原下四世¶
   
